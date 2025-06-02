@@ -1,0 +1,37 @@
+# Dependências
+node_modules
+
+# Pastas de build
+.next
+out
+
+# Arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de ambiente (segurança)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache
+.cache
+
+# Diretórios de configuração de IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do Vercel (opcional)
+.vercel
+
+# Arquivos temporários
+*.swp
+*.swo
