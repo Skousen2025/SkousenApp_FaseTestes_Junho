@@ -1,9 +1,10 @@
 // app/page.tsx
+
 export default function Home() {
   return (
     <main>
-      <h1>Bem-vindo ao App Skousen</h1>
-      <p>Esta é a página inicial.</p>
+      <h1>Skousen App</h1>
+      <p>Bem-vindo ao painel de controle das instalações.</p>
     </main>
   );
 }
