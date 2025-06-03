@@ -1,7 +1,7 @@
-export default function HomePage() {
+export default function Home() {
   return (
     <main>
-      <h1>Bem-vindo ao App da Skousen</h1>
+      <h1>App Skousen em construção</h1>
     </main>
   );
 }
